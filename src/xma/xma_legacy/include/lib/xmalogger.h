@@ -26,6 +26,7 @@
 #include <condition_variable>
 #include <atomic>
 #include <thread>
+#include <string>
 
 
 #if !defined (PATH_MAX) || !defined (NAME_MAX)

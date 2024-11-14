@@ -20,6 +20,7 @@
 #include "xdp/profile/database/events/vtf_event.h"
 
 #include "xdp/config.h"
+#include <cstdint>
 
 namespace xdp {
 

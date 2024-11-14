@@ -17,6 +17,7 @@
 
 #ifndef xdp_config_h_
 #define xdp_config_h_
+#include <cstdint>
 
 //------------------Enable dynamic linking on windows-------------------------// 
 

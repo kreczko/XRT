@@ -19,6 +19,7 @@
 
 #include "core/common/config.h"
 #include <string>
+#include <cstdint>
 
 namespace xrt_core {
 
