@@ -22,6 +22,7 @@
 #include "xqspips.h"
 #include "core/pcie/driver/linux/include/mgmt-reg.h"
 #include "flasher.h"
+#include <array>
 
 #include "unistd.h"
 

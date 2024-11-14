@@ -20,6 +20,7 @@
 #include "xdp/config.h"
 #include "xdp/profile/device/aie_trace/aie_trace_logger.h"
 #include "xdp/profile/database/database.h"
+#include <cstdint>
 
 namespace xdp {
 

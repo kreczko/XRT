@@ -20,6 +20,7 @@
 #include <cassert>
 #include <cstring>
 #include "xqspips.h"
+#include <array>
 
 #include "unistd.h"
 

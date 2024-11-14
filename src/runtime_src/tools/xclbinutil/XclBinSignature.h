@@ -18,6 +18,7 @@
 #define __XclBinSignature_h_
 
 #include <string>
+#include <cstdint>
 
 // ----------------------- I N C L U D E S -----------------------------------
 

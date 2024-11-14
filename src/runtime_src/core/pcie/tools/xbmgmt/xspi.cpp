@@ -21,6 +21,7 @@
 #include <string>
 #include <fstream>
 #include <cassert>
+#include <array>
 #include <thread>
 #include <cstring>
 #include <vector>

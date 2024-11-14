@@ -16,6 +16,7 @@
 
 #include <iostream>
 #include <string>
+#include <array>
 #include <cassert>
 #include <climits>
 #include <cstring>

@@ -25,6 +25,7 @@
 #include <functional>
 #include <iostream>
 #include <vector>
+#include <cstdint>
 
 /* HLS CU bit status */
 #define CU_AP_START	(0x1 << 0)

@@ -21,6 +21,7 @@
 
 #include <string>
 #include <climits>
+#include <stdint.h>
 
 namespace dd {
 
