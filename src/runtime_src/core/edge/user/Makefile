@@ -12,7 +12,7 @@ CROSS_COMPILE := aarch64-linux-gnu-
 
 CXX := $(CROSS_COMPILE)g++
 CXX_EXT := cpp
-CXXFLAGS :=  -Werror -std=c++11
+CXXFLAGS :=  -std=c++11
 LIBNAME := libxclzynqdrv.so
 XCLHAL_VER =-DXCLHAL_MAJOR_VER=1 -DXCLHAL_MINOR_VER=1
 
